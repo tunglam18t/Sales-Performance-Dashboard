@@ -64,6 +64,5 @@ Dự án này phân tích hiệu suất bán hàng của từng nhân viên kinh
 - Có thể sử dụng để dự báo doanh số và lập kế hoạch khuyến khích.
 
 ## Nâng Cấp Tương Lai
-- Tích hợp với Power BI để trực quan hóa dữ liệu.
 - Tự động cập nhật dữ liệu bán hàng theo thời gian thực.
 
